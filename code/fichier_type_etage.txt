@@ -1,0 +1,788 @@
+standard ---------------------------------------------------------------------
+
+route 1
+item voiture 1
+nb_item 3
+serie 1
+sens droite
+fond biome 1
+vitesse 250 (pixel/sec)
+
+route 2
+item voiture 2
+nb_item 2
+serie 1
+sens gauche
+fond biome 1
+vitesse 200 (pixel/sec)
+
+route 3
+item voiture 3
+nb_item 2
+serie 1
+sens droite
+fond biome 1
+vitesse 300 (pixel/sec)
+
+route 4
+item voiture 4
+nb_item 1
+serie 1
+sens gauche
+fond biome 1
+vitesse 450 (pixel/sec)
+
+
+
+
+
+
+route 5
+item voiture 3
+nb_item 1
+serie 1
+sens droite
+fond biome 1
+vitesse 600 (pixel/sec)
+
+route 6
+item voiture 6
+nb_item 2
+serie 1
+sens gauche
+fond biome 1
+vitesse 500 (pixel/sec)
+
+route 7
+item voiture 1
+nb_item 2
+serie 1
+sens droite
+fond biome 1
+vitesse 400 (pixel/sec)
+
+
+
+
+
+route 8
+item voiture 2
+nb_item 1
+serie 1
+sens gauche
+fond biome 1
+vitesse 1400 (pixel/sec)
+
+route 9
+item voiture 3
+nb_item 2
+serie 1
+sens droite
+fond biome 1
+vitesse 1000 (pixel/sec)
+
+route 10
+item voiture 6
+nb_item 2
+serie 1
+sens gauche
+fond biome 1
+vitesse 800 (pixel/sec)
+
+
+
+
+
+
+riviere 1
+item rondin 3
+serie 3
+nb_item 3
+vitesse 70 (pixel/sec)
+fond biome 2
+sens droite
+
+riviere 2
+item rondin 4
+serie 4
+nb_item 2
+vitesse 90 (pixel/sec)
+fond biome 2
+sens gauche
+
+riviere 3
+item rondin 2
+serie 2
+nb_item 4
+vitesse 150 (pixel/sec)
+fond biome 2
+sens droite
+
+riviere 4
+item rondin 5
+serie 5
+nb_item 2
+vitesse 170 (pixel/sec)
+fond biome 2
+sens gauche
+
+
+
+
+
+
+riviere 5
+item rondin 4
+serie 4
+nb_item 2
+vitesse 220 (pixel/sec)
+fond biome 2
+sens droite
+
+riviere 6
+item rondin 3
+serie 3
+nb_item 3
+vitesse 280 (pixel/sec)
+fond biome 2
+sens gauche
+
+riviere 7
+item rondin 2
+serie 2
+nb_item 2
+vitesse 350 (pixel/sec)
+fond biome 2
+sens gauche
+
+
+
+
+
+
+riviere 8
+item rondin 4
+serie 4
+nb_item 1
+vitesse 450 (pixel/sec)
+fond biome 2
+sens gauche
+
+riviere 9
+item rondin 3
+serie 3
+nb_item 1
+vitesse 400 (pixel/sec)
+fond biome 2
+sens droite
+
+riviere 10
+item rondin 3
+serie 3
+nb_item 1
+vitesse 350 (pixel/sec)
+fond biome 2
+sens gauche
+
+
+
+
+
+
+transition 1 
+fond biome 3
+
+fin 1 
+fond biome 3
+
+espace -----------------------------------------------------------------------
+
+route 1
+item voiture 7
+nb_item 3
+serie 1
+sens droite
+fond biome 5
+vitesse 250 (pixel/sec)
+
+route 2
+item voiture 10
+nb_item 2
+serie 1
+sens gauche
+fond biome 5
+vitesse 200 (pixel/sec)
+
+route 3
+item voiture 9
+nb_item 2
+serie 1
+sens droite
+fond biome 5
+vitesse 300 (pixel/sec)
+
+route 4
+item voiture 8
+nb_item 1
+serie 1
+sens gauche
+fond biome 5
+vitesse 450 (pixel/sec)
+
+
+
+
+
+
+route 5
+item voiture 7
+nb_item 1
+serie 1
+sens droite
+fond biome 5
+vitesse 600 (pixel/sec)
+
+route 6
+item voiture 10
+nb_item 2
+serie 1
+sens gauche
+fond biome 5
+vitesse 500 (pixel/sec)
+
+route 7
+item voiture 7
+nb_item 2
+serie 1
+sens droite
+fond biome 5
+vitesse 400 (pixel/sec)
+
+
+
+
+
+route 8
+item voiture 10
+nb_item 1
+serie 1
+sens gauche
+fond biome 5
+vitesse 1400 (pixel/sec)
+
+route 9
+item voiture 8
+nb_item 2
+serie 1
+sens droite
+fond biome 5
+vitesse 1000 (pixel/sec)
+
+route 10
+item voiture 9
+nb_item 2
+serie 1
+sens gauche
+fond biome 5
+vitesse 800 (pixel/sec)
+
+
+
+
+
+
+riviere 1
+item rondin 7
+serie 3
+nb_item 3
+vitesse 70 (pixel/sec)
+fond biome 8
+sens droite
+
+riviere 2
+item rondin 8
+serie 4
+nb_item 2
+vitesse 90 (pixel/sec)
+fond biome 8
+sens gauche
+
+riviere 3
+item rondin 9
+serie 2
+nb_item 4
+vitesse 150 (pixel/sec)
+fond biome 8
+sens droite
+
+riviere 4
+item rondin 10
+serie 5
+nb_item 2
+vitesse 170 (pixel/sec)
+fond biome 8
+sens gauche
+
+
+
+
+
+
+riviere 5
+item rondin 10
+serie 4
+nb_item 2
+vitesse 220 (pixel/sec)
+fond biome 8
+sens droite
+
+riviere 6
+item rondin 8
+serie 3
+nb_item 3
+vitesse 280 (pixel/sec)
+fond biome 8
+sens gauche
+
+riviere 7
+item rondin 7
+serie 2
+nb_item 2
+vitesse 350 (pixel/sec)
+fond biome 8
+sens gauche
+
+
+
+
+
+
+riviere 8
+item rondin 10
+serie 4
+nb_item 1
+vitesse 450 (pixel/sec)
+fond biome 8
+sens gauche
+
+riviere 9
+item rondin 9
+serie 3
+nb_item 1
+vitesse 400 (pixel/sec)
+fond biome 8
+sens droite
+
+riviere 10
+item rondin 7
+serie 3
+nb_item 1
+vitesse 350 (pixel/sec)
+fond biome 8
+sens gauche
+
+
+
+
+
+
+transition 1 
+fond biome 7
+
+fin 1 
+fond biome 7
+
+medieval ---------------------------------------------------------------------
+
+route 1
+item voiture 11
+nb_item 3
+serie 1
+sens droite
+fond biome 4
+vitesse 250 (pixel/sec)
+
+route 2
+item voiture 12
+nb_item 2
+serie 1
+sens gauche
+fond biome 4
+vitesse 200 (pixel/sec)
+
+route 3
+item voiture 14
+nb_item 2
+serie 1
+sens droite
+fond biome 4
+vitesse 300 (pixel/sec)
+
+route 4
+item voiture 13
+nb_item 1
+serie 1
+sens gauche
+fond biome 4
+vitesse 450 (pixel/sec)
+
+
+
+
+
+
+route 5
+item voiture 14
+nb_item 1
+serie 1
+sens droite
+fond biome 4
+vitesse 600 (pixel/sec)
+
+route 6
+item voiture 12
+nb_item 2
+serie 1
+sens gauche
+fond biome 4
+vitesse 500 (pixel/sec)
+
+route 7
+item voiture 11
+nb_item 2
+serie 1
+sens droite
+fond biome 4
+vitesse 400 (pixel/sec)
+
+
+
+
+
+route 8
+item voiture 13
+nb_item 1
+serie 1
+sens gauche
+fond biome 4
+vitesse 1400 (pixel/sec)
+
+route 9
+item voiture 11
+nb_item 2
+serie 1
+sens droite
+fond biome 4
+vitesse 1000 (pixel/sec)
+
+route 10
+item voiture 12
+nb_item 2
+serie 1
+sens gauche
+fond biome 4
+vitesse 800 (pixel/sec)
+
+
+
+
+
+
+riviere 1
+item rondin 12
+serie 3
+nb_item 3
+vitesse 70 (pixel/sec)
+fond biome 2
+sens droite
+
+riviere 2
+item rondin 13
+serie 4
+nb_item 2
+vitesse 90 (pixel/sec)
+fond biome 2
+sens gauche
+
+riviere 3
+item rondin 14
+serie 2
+nb_item 4
+vitesse 150 (pixel/sec)
+fond biome 2
+sens droite
+
+riviere 4
+item rondin 15
+serie 5
+nb_item 2
+vitesse 170 (pixel/sec)
+fond biome 2
+sens gauche
+
+
+
+
+
+
+riviere 5
+item rondin 13
+serie 4
+nb_item 2
+vitesse 220 (pixel/sec)
+fond biome 2
+sens droite
+
+riviere 6
+item rondin 15
+serie 3
+nb_item 3
+vitesse 280 (pixel/sec)
+fond biome 2
+sens gauche
+
+riviere 7
+item rondin 12
+serie 2
+nb_item 2
+vitesse 350 (pixel/sec)
+fond biome 2
+sens gauche
+
+
+
+
+
+
+riviere 8
+item rondin 12
+serie 4
+nb_item 1
+vitesse 450 (pixel/sec)
+fond biome 2
+sens gauche
+
+riviere 9
+item rondin 13
+serie 3
+nb_item 1
+vitesse 400 (pixel/sec)
+fond biome 2
+sens droite
+
+riviere 10
+item rondin 14
+serie 3
+nb_item 1
+vitesse 350 (pixel/sec)
+fond biome 2
+sens gauche
+
+
+
+
+
+
+transition 1 
+fond biome 6
+
+fin 1 
+fond biome 6
+
+
+onepiece ---------------------------------------------------------------------
+
+route 1
+item voiture 15
+nb_item 3
+serie 1
+sens droite
+fond biome 11
+vitesse 250 (pixel/sec)
+
+route 2
+item voiture 15
+nb_item 2
+serie 1
+sens gauche
+fond biome 11
+vitesse 200 (pixel/sec)
+
+route 3
+item voiture 15
+nb_item 2
+serie 1
+sens droite
+fond biome 11
+vitesse 300 (pixel/sec)
+
+route 4
+item voiture 15
+nb_item 1
+serie 1
+sens gauche
+fond biome 11
+vitesse 450 (pixel/sec)
+
+
+
+
+
+
+route 5
+item voiture 15
+nb_item 1
+serie 1
+sens droite
+fond biome 11
+vitesse 600 (pixel/sec)
+
+route 6
+item voiture 15
+nb_item 2
+serie 1
+sens gauche
+fond biome 11
+vitesse 500 (pixel/sec)
+
+route 7
+item voiture 15
+nb_item 2
+serie 1
+sens droite
+fond biome 11
+vitesse 400 (pixel/sec)
+
+
+
+
+
+route 8
+item voiture 15
+nb_item 1
+serie 1
+sens gauche
+fond biome 11
+vitesse 1400 (pixel/sec)
+
+route 9
+item voiture 15
+nb_item 2
+serie 1
+sens droite
+fond biome 11
+vitesse 1000 (pixel/sec)
+
+route 10
+item voiture 15
+nb_item 2
+serie 1
+sens gauche
+fond biome 11
+vitesse 800 (pixel/sec)
+
+
+
+
+
+
+riviere 1
+item rondin 17
+serie 3
+nb_item 3
+vitesse 70 (pixel/sec)
+fond biome 10
+sens droite
+
+riviere 2
+item rondin 18
+serie 4
+nb_item 2
+vitesse 90 (pixel/sec)
+fond biome 10
+sens gauche
+
+riviere 3
+item rondin 21
+serie 2
+nb_item 4
+vitesse 150 (pixel/sec)
+fond biome 10
+sens droite
+
+riviere 4
+item rondin 24
+serie 5
+nb_item 2
+vitesse 170 (pixel/sec)
+fond biome 10
+sens gauche
+
+
+
+
+
+
+riviere 5
+item rondin 19
+serie 4
+nb_item 2
+vitesse 220 (pixel/sec)
+fond biome 10
+sens droite
+
+riviere 6
+item rondin 22
+serie 3
+nb_item 3
+vitesse 280 (pixel/sec)
+fond biome 10
+sens gauche
+
+riviere 7
+item rondin 24
+serie 2
+nb_item 2
+vitesse 350 (pixel/sec)
+fond biome 10
+sens gauche
+
+
+
+
+
+
+riviere 8
+item rondin 16
+serie 4
+nb_item 1
+vitesse 450 (pixel/sec)
+fond biome 10
+sens gauche
+
+riviere 9
+item rondin 23
+serie 3
+nb_item 1
+vitesse 400 (pixel/sec)
+fond biome 10
+sens droite
+
+riviere 10
+item rondin 22
+serie 3
+nb_item 1
+vitesse 350 (pixel/sec)
+fond biome 10
+sens gauche
+
+
+
+
+
+
+transition 1 
+fond biome 9
+
+fin 1 
+fond biome 9

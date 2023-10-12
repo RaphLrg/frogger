@@ -1,0 +1,33 @@
+standard -----------------------------------------------------------------------------------------------
+
+voiture 1
+droite voiture 1
+gauche voiture 2
+
+voiture 2
+droite voiture 3
+gauche voiture 4
+
+voiture 3
+droite voiture 5
+gauche voiture 6
+
+rondin 1
+droite rondin 1
+gauche rondin 1
+
+rondin 2
+droite rondin 2
+gauche rondin 2
+
+espace -------------------------------------------------------------------------------------------------
+
+voiture 1
+droite voiture 7
+gauche voiture 8
+
+voiture 2
+droite voiture 9
+gauche voiture 10
+
+medieval -------------------------------------------------------------------------------------------------

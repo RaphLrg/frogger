@@ -1,0 +1,279 @@
+facile ------------------------------------------------------------------
+
+theme standard
+1 transition 1
+2 route 1
+3 route 2
+4 route 3
+5 route 1
+6 route 4
+7 route 3
+8 transition 1
+9 riviere 1
+10 riviere 2
+11 riviere 4
+12 riviere 3
+13 riviere 1
+14 riviere 4
+15 fin 1
+
+theme espace
+1 transition 1
+2 route 1
+3 route 2
+4 route 3
+5 route 1
+6 route 4
+7 route 3
+8 transition 1
+9 riviere 1
+10 riviere 2
+11 riviere 4
+12 riviere 3
+13 riviere 1
+14 riviere 4
+15 fin 1
+
+theme medieval
+1 transition 1
+2 route 1
+3 route 2
+4 route 3
+5 route 1
+6 route 4
+7 route 3
+8 transition 1
+9 riviere 1
+10 riviere 2
+11 riviere 4
+12 riviere 3
+13 riviere 1
+14 riviere 4
+15 fin 1
+
+theme onepiece
+1 transition 1
+2 route 1
+3 route 2
+4 route 3
+5 route 1
+6 route 4
+7 route 3
+8 transition 1
+9 riviere 1
+10 riviere 2
+11 riviere 4
+12 riviere 3
+13 riviere 1
+14 riviere 4
+15 fin 1
+
+normal ------------------------------------------------------------------
+
+theme standard
+1 transition 1
+2 route 4
+3 route 3
+4 route 5
+5 route 7
+6 route 6
+7 route 5
+8 transition 1
+9 riviere 4
+10 riviere 3
+11 riviere 7
+12 riviere 5
+13 riviere 4
+14 riviere 6
+15 fin 1
+
+theme espace
+1 transition 1
+2 route 4
+3 route 3
+4 route 5
+5 route 7
+6 route 6
+7 route 5
+8 transition 1
+9 riviere 4
+10 riviere 3
+11 riviere 7
+12 riviere 5
+13 riviere 4
+14 riviere 6
+15 fin 1
+
+theme medieval
+1 transition 1
+2 route 4
+3 route 3
+4 route 5
+5 route 7
+6 route 6
+7 route 5
+8 transition 1
+9 riviere 4
+10 riviere 3
+11 riviere 7
+12 riviere 5
+13 riviere 4
+14 riviere 6
+15 fin 1
+
+theme onepiece
+1 transition 1
+2 route 4
+3 route 3
+4 route 5
+5 route 7
+6 route 6
+7 route 5
+8 transition 1
+9 riviere 4
+10 riviere 3
+11 riviere 7
+12 riviere 5
+13 riviere 4
+14 riviere 6
+15 fin 1
+
+difficile ---------------------------------------------------------------
+
+theme standard
+1 transition 1
+2 route 8
+3 route 5
+4 route 6
+5 route 9
+6 route 10
+7 route 7
+8 transition 1
+9 riviere 8
+10 riviere 5
+11 riviere 6
+12 riviere 9
+13 riviere 10
+14 riviere 7
+15 fin 1
+
+theme espace
+1 transition 1
+2 route 8
+3 route 5
+4 route 6
+5 route 9
+6 route 10
+7 route 7
+8 transition 1
+9 riviere 8
+10 riviere 5
+11 riviere 6
+12 riviere 9
+13 riviere 10
+14 riviere 7
+15 fin 1
+
+theme medieval
+1 transition 1
+2 route 8
+3 route 5
+4 route 6
+5 route 9
+6 route 10
+7 route 7
+8 transition 1
+9 riviere 8
+10 riviere 5
+11 riviere 6
+12 riviere 9
+13 riviere 10
+14 riviere 7
+15 fin 1
+
+theme onepiece
+1 transition 1
+2 route 8
+3 route 5
+4 route 6
+5 route 9
+6 route 10
+7 route 7
+8 transition 1
+9 riviere 8
+10 riviere 5
+11 riviere 6
+12 riviere 9
+13 riviere 10
+14 riviere 7
+15 fin 1
+
+infini ---------------------------------------------------------------
+
+theme standard
+route 1
+route 2
+route 3
+route 4
+route 5
+route 6
+route 7
+route 8
+route 9
+route 10
+riviere 1
+riviere 2
+riviere 3
+riviere 5
+transition 1
+
+theme espace
+route 1
+route 2
+route 3
+route 4
+route 5
+route 6
+route 7
+route 8
+route 9
+route 10
+riviere 1
+riviere 2
+riviere 3
+riviere 5
+transition 1
+
+theme medieval
+route 1
+route 2
+route 3
+route 4
+route 5
+route 6
+route 7
+route 8
+route 9
+route 10
+riviere 1
+riviere 2
+riviere 3
+riviere 5
+transition 1
+
+theme onepiece
+route 1
+route 2
+route 3
+route 4
+route 5
+route 6
+route 7
+route 8
+route 9
+route 10
+riviere 1
+riviere 2
+riviere 3
+riviere 5
+transition 1
