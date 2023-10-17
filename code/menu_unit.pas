@@ -236,9 +236,9 @@ procedure choixVolume(var p : Plateau; fleche_pressee : String; var s : PChar);
 begin
 	case fleche_pressee of
 		'arrowrightv' : if p.vol < 100 then
-			p.vol += 10;
+			p.vol := p.vol + 10;
 		'arrowleftv' : if p.vol > 9 then
-			p.vol -= 10;
+			p.vol := p.vol - 10;
 		end;
 	s := PChar('volume : ' + IntToStr(p.vol));
 end;
@@ -263,10 +263,10 @@ var s : String;
 begin
 	s :=  mouv + ' : ';
 	case mouv of
-		'up' : s += SDL_GetKeyName(p.up);
-		'down' : s += SDL_GetKeyName(p.down);
-		'left' : s += SDL_GetKeyName(p.left);
-		'right' : s += SDL_GetKeyName(p.right);
+		'up' : s := s + SDL_GetKeyName(p.up);
+		'down' : s := s + SDL_GetKeyName(p.down);
+		'left' : s := s + SDL_GetKeyName(p.left);
+		'right' : s := s + SDL_GetKeyName(p.right);
 	end;
 	etatControle := PChar(s);
 end;

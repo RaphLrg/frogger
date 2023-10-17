@@ -48,9 +48,9 @@ procedure actualiserScore(var score: Score; evenement: Evt_score);
 { Met à jour le score en fonction de ce qu'a fait le joueur }
 begin
   case evenement of
-    avance : score.score += 10;
-    bonus  : score.score += 50;
-    maison : score.score += 100;
+    avance : score.score := score.score + 10;
+    bonus  : score.score := score.score + 50;
+    maison : score.score := score.score + 100;
   end;
 end;
 
